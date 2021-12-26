@@ -103,7 +103,7 @@ body{
 height: 600px;
   background-image: url("../img/Bitmap.svg");
   background-repeat: no-repeat;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 .hero__left{
