@@ -119,7 +119,7 @@ ul,ol,li{
 
 .hero__inner{
 height: 600px;
-  background-image: url("../img/Bitmap.svg");
+  background-image: url("../img/first.png");
   background-repeat: no-repeat;
   border-radius: 10px;
 }
@@ -238,7 +238,7 @@ line-height: 26px;
 
 .choice__inner{
   position: relative;
-  background-image: url(../img/img.svg);
+  background-image: url(../img/bacroun.jpg);
   border-radius: 10px;
   padding-bottom: 230px;
 }
